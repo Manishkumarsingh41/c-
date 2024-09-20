@@ -5,6 +5,7 @@ int main(){
     while(count<=1000){
         cout<<count<<" ";
         count++;
+        
     }
     cout<<endl;
     return 0;
