@@ -8,7 +8,6 @@ int main(){
         if(i%2 !=0){ 
             oddsum=oddsum+i;
         }
-
     }
     cout<<"The oddsum is:"<<oddsum<<endl;
     return 0;
