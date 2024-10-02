@@ -28,7 +28,7 @@ int main(){
         for(int j=1;j<=2*(n-i);j++){
             cout<<" ";
         }
-        //star
+        //star//
         for(int j=1;j<=i;j++){
             cout<<"*";
         }
