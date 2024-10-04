@@ -9,8 +9,7 @@ int main(){
             cout<<"The number is not prime";
             break;  
     }else{
-        cout<<"The number is prime"<<endl;
-
+        cout<<"The number is prime"<<endl;
     }
     return 0;
 }
